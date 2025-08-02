@@ -8,3 +8,5 @@ This repository serves as the **permanent reference kit** for the digital identi
 ![Chinny Artfilicious Face](chinny-face-reference.jpg)
 
 ## 🧠 AI Prompt
+"skin": "medium-dar brown with warm undertones",   ← should be "medium-dark"
+"mole": "lower left ckheek"                         ← should be "lower left cheek"
